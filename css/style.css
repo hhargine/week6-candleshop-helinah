@@ -17,7 +17,7 @@ body {
     background-attachment: fixed;
     background-image: url('../img/pilt1.jpg');
     background-position: center;
-    background-size: cover;
+    background-size: 1000px;
     height: 50vh;
 }
 
